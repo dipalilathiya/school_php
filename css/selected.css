@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: "Roboto Slab", serif;
+    
+}
+.box {
+    width: 100%;
+    height: 90px;
+    background-color: rgb(207, 213, 214);
+}
+
+
+
+.box i {
+    font-size: 20px;
+    position: absolute;
+    top: 30px;
+    left: 250px;
+}
+
+.box input {
+    width: 350px;
+    height: 40px;
+    border-radius: 30px;
+    position: absolute;
+    border: none;
+    top: 20px;
+    left: 300px;
+}
+
+.box1 {
+    /* background-color: rgb(175, 182, 197); */
+    display: flex;
+    width: 100%;
+    height: 800px;
+}
+
+/* .bo1 {
+    width: 1200px;
+    height: auto;
+    border: 1px solid black;
+} */
+
+.box2 {
+    width: 100px;
+    height: auto;
+    /* background-color: aliceblue; */
+    background-color: #fff;
+    /* border: 1px solid black; */
+}
+
+.i1 i {
+    position: absolute;
+    margin-left: 60px;
+    z-index: 1000;
+}
+.i1 input {
+    padding: 10px 40px;
+}
+.tabal{
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 10px 10px 10px 10px;
+    
+   
+}
+
+.tabal1 {
+    
+    height: auto;
+    width: 1060px;
+    margin-left: 10px;
+    font-size: 15px ;
+    background-color: rgb(199, 195, 195);
+    border-radius: 10px 10px 10px 10px;
+    /* margin: auto; */
+    /* box-shadow: 1px 1px 5px 1px; */
+    border: none;
+    text-align: center;
+}
+
+
+
+.update {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(255, 255, 255); 
+    color: white;
+    /* border: 1px solid blue; */
+    border-radius:50px;
+
+}
+.delete {
+    width: 30px;
+    height: 30px;
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    color: white; 
+    border-radius:50px;
+    border: none;
+}
+ a i{
+    text-decoration: none;
+    color: black;
+}
+.serch{
+  display: flex;
+ 
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.s1 input{
+    width: 400px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 30px 10px 10px 30px;
+    border: 1px solid gray;
+}
+.s2 input{
+    width: 70px;
+    height: 40px;
+    margin-left: 5px;
+    border-radius: 10px 30px 30px 10px;
+    background-color: rgb(214, 214, 214);
+    border: 1px solid gray;
+}
+ 
+ 

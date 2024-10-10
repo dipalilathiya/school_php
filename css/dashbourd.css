@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+
+}
+
+.box {
+    width: 100%;
+    height: 90px;
+    background-color: rgb(207, 213, 214);  
+}
+.box img {
+    margin-top: -30px;
+}
+
+.box i {
+    font-size: 20px;
+    position: absolute;
+    top: 30px;
+    left: 250px;
+}
+
+.box input {
+    width: 350px;
+    height: 40px;
+    border-radius: 30px;
+    border: none;
+    position: absolute;
+    top: 20px;
+    left: 300px;
+}
+
+.box1 {
+    /* background-color: rgb(175, 182, 197); */
+    display: flex;
+    width: 100%;
+    height: 800px;
+}
+
+
+
+
+
+.i1 i{
+position:absolute;
+margin-left: 60px;
+z-index: 1000;
+}
+.i1 input{
+padding: 10px 40px;
+}
+.b1{
+    width: 100px;
+    /* background-color: red; */
+}
+
+.bo2{
+    width: 975px;
+    /* border: 1px solid black; */
+    height: 800px;
+   
+}
+.bo2 h3{
+   width: 400px;
+   height: 40px;
+   margin-top: 40px;
+   margin-left: 40PX;
+   /* background-color: aliceblue; */
+}
+
+.item{
+      width:975px;
+      height: 250px;
+      /* background-color: antiquewhite; */
+      display: flex;
+      margin-left: 40px;
+      justify-content: space-between;
+}
+.item1{
+    width: 300px;
+    height: 150px;
+    margin-top: 30px;
+    background-color:lightgray;
+    /* border: 1px solid black; */
+}
+.in1{
+    width: 300px;
+    height: 40px;
+    /* border: 1px solid red; */
+}
+.in2{
+    width: 300px;
+    height: 50px;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-around;
+}
+.in22{
+      width: 50px;
+      height: 40px;
+      /* border: 1px solid blue; */
+
+}
+.in22 span{
+    font-size: 35px;
+}
+.in3{
+    width: 300px;
+    height: 30px;
+    /* border: 1px solid red; */
+    display: flex;
+
+}
+
+.in33 h4{
+    color: brown;
+    margin-left: 50px;
+   
+}
+.in33 p{
+    margin-left: 10px;
+}
+.in1 h4{
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+    /* background-color: aliceblue; */
+ }
+ .inpu
+ {
+    width: 150px;
+    height:40px;
+    background-color: lightgray;
+    color: rgb(0, 0, 0);
+    margin: auto;
+ }
+ .inpu input
+ {
+    width: 150px;
+    height:40px;
+    background-color:lightgray;
+    color: rgb(0, 0, 0);
+    border: none;
+ }
